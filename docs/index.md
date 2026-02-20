@@ -12,3 +12,12 @@ Classify Sentinel-3 altimetry echoes into **lead** and **sea ice**, compute **av
 
 ### GMM predicted
 ![](figures/avg_echo_GMM.png)
+
+## Results: Confusion matrices
+
+### KMeans vs ESA (surf_type_class_20_ku)
+![](figures/cm_KMeans.png)
+
+### GMM vs ESA (surf_type_class_20_ku)
+![](figures/cm_GMM.png)
+
